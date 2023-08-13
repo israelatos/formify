@@ -1,4 +1,4 @@
-# Joan's Registration Form
+# Registration Form
 
 This is a simple registration form that allows users to provide their information and create an account. It is designed to gather essential details for registration purposes. 
 
